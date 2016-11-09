@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2707135320">
+    <data-source source="LOCAL" name="PostgreSQL - Haberler@localhost" uuid="3ccd0a6f-3227-401b-bfa0-085320f26eb0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/Haberler</jdbc-url>
+    </data-source>
+  </component>
+</project>

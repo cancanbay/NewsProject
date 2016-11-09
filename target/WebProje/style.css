@@ -1,0 +1,84 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+    background-color: cadetblue;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+li a {
+    display: block;
+    color: white;
+    padding:14px 16px;
+    text-decoration: none;
+
+}
+li{
+    float:left;
+    border-bottom: 1px solid #555;
+    border-right: 1px solid #555;
+}
+li:last-child {
+    border-bottom: 1px solid #555;
+    border-right: 1px solid #555;
+}
+
+li a:hover {
+    background-color: #333;
+    color: white;
+}
+
+h2{
+    font-family: Calibri;
+    font-style: italic;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+table.shownewstable tr {
+    padding-top: 100px;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    font-style: normal;
+    font-family: Tahoma;
+    text-decoration-color: cadetblue;
+}
+table.shownewstable td {
+    padding-top: 100px;
+    text-align: center;
+    font-style: normal;
+    font-family: Tahoma;
+    font-style: italic;
+    font-size: large;
+    text-decoration-color: cadetblue;
+}
+
+tr.title td{
+    font-size:x-large;
+    color : blueviolet;
+}
+
+
+tr,td{
+    font-style: italic;
+    font-family: Calibri;
+    text-decoration-color: cadetblue;
+}
+
+body{
+    background-image: url("images/gradientbg2.jpg");;
+}
